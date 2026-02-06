@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clip-sae"
+version = "0.1.0"
+description = "SAE for CLIP - educational reimplementation"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+
+[project.optional-dependencies]
+dev = [
+  "ruff",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100

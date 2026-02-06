@@ -1,0 +1,7 @@
+model: ViT-B-32
+pretrained: openai
+layer: visual.transformer.resblocks.0
+num_samples: 200
+batch_size: 16
+shard_size: 256
+out_dir: artifacts/activation_cache
