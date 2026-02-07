@@ -49,6 +49,16 @@ Outputs:
 
 Tip: Use `scripts/check_clip.py --layer <name>` to validate a layer name.
 
+## Colab Full Run
+
+Use `notebooks/colab_run_full.ipynb` for the full Food101 + STL‑10 pipeline in Colab.  
+It clones the repo, installs deps, extracts activations, trains MSAE, runs zero‑shot eval, and builds auto‑interpretation outputs.
+
+Artifacts are written under `artifacts/` in the repo path inside Colab. After the run, download:
+- `artifacts/checkpoints/colab_msae/`
+- `artifacts/eval/`
+- `artifacts/autointerp/`
+
 ## Train SAE (local)
 
 ```bash
@@ -140,7 +150,7 @@ PYTHONPATH=src python scripts/eval_zeroshot.py \
   --sae_layer visual.transformer.resblocks.0
 ```
 
-## P4 Table
+## Zero-shot Table
 
 ```bash
 PYTHONPATH=src python scripts/make_p4_table.py \
@@ -149,7 +159,7 @@ PYTHONPATH=src python scripts/make_p4_table.py \
   --out_path artifacts/eval/zeroshot_eval_table.md
 ```
 
-## Auto-Interpretation (P5)
+## Auto-Interpretation Table
 
 Build collages from cached activations:
 
@@ -191,4 +201,5 @@ notebooks/             # orchestration notebooks
 logs/                  # training/eval logs
 artifacts/             # outputs (checkpoints, tables, collages)
 data/sample_images/    # local images for quick checks
+report_assets/         # images embedded in REPORT.md
 ```

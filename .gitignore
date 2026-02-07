@@ -9,3 +9,5 @@ data/torchvision/
 .env
 data
 venv
+artifacts_from_collab/
+artifacts_from_collabcvj

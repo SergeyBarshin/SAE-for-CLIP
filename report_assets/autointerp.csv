@@ -1,0 +1,301 @@
+latent_id,collage_path,max_activation,interpretation,status,model
+0,artifacts/autointerp/collages/latent_0.png,24.544902801513672,"The images predominantly feature various food items presented in warm, reddish tones, creating a cozy and inviting atmosphere.",ok,openai/gpt-4o-mini
+2,artifacts/autointerp/collages/latent_2.png,12.200390815734863,"The common visual pattern across these images is a diverse array of colorful and creatively presented dishes, showcasing various cuisines and ingredients.",ok,openai/gpt-4o-mini
+58,artifacts/autointerp/collages/latent_58.png,13.290245056152344,"The images showcase a diverse array of plated dishes, highlighting various cuisines and presentation styles, with a focus on both savory and sweet items.",ok,openai/gpt-4o-mini
+132,artifacts/autointerp/collages/latent_132.png,13.832170486450195,"The common visual pattern across these images is a diverse array of delicious food items, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+136,artifacts/autointerp/collages/latent_136.png,14.272529602050781,"The common visual pattern across these images is a diverse array of food items, showcasing various cuisines, presentations, and textures.",ok,openai/gpt-4o-mini
+141,artifacts/autointerp/collages/latent_141.png,16.148494720458984,"The common visual pattern across these images is a diverse array of food items, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+157,artifacts/autointerp/collages/latent_157.png,13.069076538085938,"The images showcase a diverse array of desserts and sweet dishes, highlighting various textures, colors, and presentation styles.",ok,openai/gpt-4o-mini
+265,artifacts/autointerp/collages/latent_265.png,12.219327926635742,"The images showcase a diverse array of delicious dishes and desserts, highlighting various cuisines and culinary presentations.",ok,openai/gpt-4o-mini
+310,artifacts/autointerp/collages/latent_310.png,14.32174015045166,"The common visual pattern across these images is a diverse array of colorful and appetizing food dishes, showcasing various cuisines and desserts.",ok,openai/gpt-4o-mini
+313,artifacts/autointerp/collages/latent_313.png,12.7842435836792,"The images showcase a diverse array of colorful and appetizing dishes, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+320,artifacts/autointerp/collages/latent_320.png,13.26215648651123,"The images showcase a diverse array of dishes, highlighting various cuisines and presentation styles, often featuring vibrant colors and intricate plating.",ok,openai/gpt-4o-mini
+331,artifacts/autointerp/collages/latent_331.png,35.919898986816406,"The common visual pattern across these images is a vibrant array of diverse and colorful food presentations, showcasing various dishes and desserts.",ok,openai/gpt-4o-mini
+349,artifacts/autointerp/collages/latent_349.png,12.680848121643066,"The images showcase a variety of food items, including desserts, main dishes, and snacks, highlighting diverse culinary presentations and textures.",ok,openai/gpt-4o-mini
+370,artifacts/autointerp/collages/latent_370.png,12.480198860168457,"The common visual pattern across these images is a diverse array of plated dishes featuring various cuisines, ingredients, and presentation styles.",ok,openai/gpt-4o-mini
+447,artifacts/autointerp/collages/latent_447.png,23.364023208618164,"The images showcase a variety of dishes and food presentations, highlighting different cuisines and dining experiences.",ok,openai/gpt-4o-mini
+450,artifacts/autointerp/collages/latent_450.png,13.15994644165039,"The common visual pattern across these images is a diverse array of food dishes, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+451,artifacts/autointerp/collages/latent_451.png,36.48780822753906,"The images showcase a variety of desserts and dishes, highlighting diverse textures, colors, and presentations of food.",ok,openai/gpt-4o-mini
+469,artifacts/autointerp/collages/latent_469.png,27.28618621826172,"The common visual pattern across these images is a vibrant array of colorful foods and celebratory treats, often associated with parties and special occasions.",ok,openai/gpt-4o-mini
+492,artifacts/autointerp/collages/latent_492.png,12.350309371948242,"The common visual pattern across these images is a diverse array of plated dishes featuring various cuisines, ingredients, and presentation styles.",ok,openai/gpt-4o-mini
+567,artifacts/autointerp/collages/latent_567.png,14.740699768066406,"The common visual pattern across these images is a diverse array of food items, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+746,artifacts/autointerp/collages/latent_746.png,12.402359962463379,"The common visual pattern across these images is a diverse array of food items presented in various styles and arrangements, showcasing different cuisines and textures.",ok,openai/gpt-4o-mini
+816,artifacts/autointerp/collages/latent_816.png,12.474409103393555,"The images showcase a diverse array of food items, including appetizers, main dishes, desserts, and snacks, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+840,artifacts/autointerp/collages/latent_840.png,13.00385570526123,"The images showcase a diverse array of food dishes, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+844,artifacts/autointerp/collages/latent_844.png,12.51019287109375,"The images showcase a diverse array of food dishes, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+875,artifacts/autointerp/collages/latent_875.png,14.308821678161621,"The common visual pattern across these images is a diverse array of food presentations, showcasing various dishes and desserts in appealing arrangements.",ok,openai/gpt-4o-mini
+876,artifacts/autointerp/collages/latent_876.png,17.091323852539062,"The common visual pattern across these images is a diverse array of food dishes and dining experiences, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+881,artifacts/autointerp/collages/latent_881.png,12.870647430419922,"The images showcase a variety of food presentations, highlighting diverse dishes and desserts with vibrant colors and intricate plating.",ok,openai/gpt-4o-mini
+888,artifacts/autointerp/collages/latent_888.png,15.085716247558594,"The common visual pattern across these images is a variety of food dishes, predominantly featuring meats, vegetables, and sides, presented in different styles and settings.",ok,openai/gpt-4o-mini
+893,artifacts/autointerp/collages/latent_893.png,12.35284423828125,"The common visual pattern across these images is a diverse array of food items, showcasing various cuisines and presentations.",ok,openai/gpt-4o-mini
+896,artifacts/autointerp/collages/latent_896.png,13.761964797973633,"The images showcase a diverse array of delicious food dishes, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+902,artifacts/autointerp/collages/latent_902.png,17.945436477661133,"The images showcase a variety of food dishes, predominantly featuring rich colors and diverse textures, arranged in a grid format.",ok,openai/gpt-4o-mini
+916,artifacts/autointerp/collages/latent_916.png,13.159078598022461,"The images showcase a diverse array of food dishes and desserts, highlighting various textures, colors, and presentation styles.",ok,openai/gpt-4o-mini
+1022,artifacts/autointerp/collages/latent_1022.png,13.169422149658203,The common visual pattern across these images is a diverse array of colorful and creatively presented food dishes and desserts.,ok,openai/gpt-4o-mini
+1094,artifacts/autointerp/collages/latent_1094.png,12.24393081665039,"The common visual pattern across these images is a diverse array of food items, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+1095,artifacts/autointerp/collages/latent_1095.png,22.862415313720703,The images predominantly feature various types of food and desserts presented in different styles and settings.,ok,openai/gpt-4o-mini
+1105,artifacts/autointerp/collages/latent_1105.png,16.98668670654297,"The images showcase a diverse array of beautifully presented dishes and desserts, highlighting various cuisines and culinary styles.",ok,openai/gpt-4o-mini
+1107,artifacts/autointerp/collages/latent_1107.png,12.265758514404297,"The common visual pattern across these images is a vibrant display of food items, desserts, and festive decorations, showcasing a variety of colors and textures.",ok,openai/gpt-4o-mini
+1119,artifacts/autointerp/collages/latent_1119.png,13.232609748840332,"The common visual pattern across these images is a diverse array of food dishes, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+1152,artifacts/autointerp/collages/latent_1152.png,13.537803649902344,"The common visual pattern across these images is a diverse array of food dishes and culinary presentations, showcasing various cuisines and styles of plating.",ok,openai/gpt-4o-mini
+1153,artifacts/autointerp/collages/latent_1153.png,17.208824157714844,The common visual pattern across these images is a diverse array of food dishes and desserts presented in various styles and settings.,ok,openai/gpt-4o-mini
+1182,artifacts/autointerp/collages/latent_1182.png,20.877479553222656,"The images showcase a variety of plated dishes, highlighting diverse textures, colors, and culinary presentations in a fine dining context.",ok,openai/gpt-4o-mini
+1222,artifacts/autointerp/collages/latent_1222.png,16.36383628845215,"The images showcase a variety of elegantly presented dishes, highlighting diverse culinary styles and ingredients on white plates.",ok,openai/gpt-4o-mini
+1243,artifacts/autointerp/collages/latent_1243.png,12.707820892333984,"The images showcase a diverse array of delicious dishes, highlighting various cuisines and cooking styles, with an emphasis on rich textures and vibrant colors.",ok,openai/gpt-4o-mini
+1255,artifacts/autointerp/collages/latent_1255.png,12.905402183532715,"The images showcase a diverse array of food dishes, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+1260,artifacts/autointerp/collages/latent_1260.png,34.15270233154297,"The images predominantly feature a variety of colorful and visually appealing food items, primarily desserts and dishes presented on plates.",ok,openai/gpt-4o-mini
+1276,artifacts/autointerp/collages/latent_1276.png,15.58072566986084,"The common visual pattern across these images is a diverse array of colorful and creatively presented food items, showcasing various cuisines and desserts.",ok,openai/gpt-4o-mini
+1358,artifacts/autointerp/collages/latent_1358.png,12.863649368286133,"The common visual pattern across these images is a diverse array of food items, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+1384,artifacts/autointerp/collages/latent_1384.png,13.173650741577148,"The images showcase a variety of dishes, primarily desserts and savory foods, presented on white plates with diverse textures and colors.",ok,openai/gpt-4o-mini
+1394,artifacts/autointerp/collages/latent_1394.png,12.237424850463867,The common visual pattern across these images is a diverse array of colorful and appetizing food dishes presented in various styles and settings.,ok,openai/gpt-4o-mini
+1497,artifacts/autointerp/collages/latent_1497.png,13.207870483398438,"The common visual pattern across these images is a diverse array of food items, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+1554,artifacts/autointerp/collages/latent_1554.png,19.278335571289062,The images predominantly feature a variety of food items and desserts presented in diverse styles and settings.,ok,openai/gpt-4o-mini
+1563,artifacts/autointerp/collages/latent_1563.png,13.631181716918945,"The common visual pattern across these images is a diverse array of colorful and creatively presented food dishes, showcasing various cuisines and dessert styles.",ok,openai/gpt-4o-mini
+1583,artifacts/autointerp/collages/latent_1583.png,23.830984115600586,"The images predominantly feature various dishes and dining experiences, showcasing a range of food presentations in a dimly lit setting.",ok,openai/gpt-4o-mini
+1596,artifacts/autointerp/collages/latent_1596.png,12.795934677124023,"The common visual pattern across these images is a diverse array of food dishes and desserts, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+1621,artifacts/autointerp/collages/latent_1621.png,12.918914794921875,"The images showcase a diverse array of food dishes, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+1673,artifacts/autointerp/collages/latent_1673.png,24.86333465576172,"The images showcase a variety of desserts and dishes, often presented with artistic plating and garnishes, highlighting rich colors and textures.",ok,openai/gpt-4o-mini
+1680,artifacts/autointerp/collages/latent_1680.png,15.774171829223633,"The images showcase a diverse array of colorful and visually appealing dishes, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+1722,artifacts/autointerp/collages/latent_1722.png,12.327391624450684,"The common visual pattern across these images is a diverse array of food items presented in various styles and settings, showcasing different cuisines and meal types.",ok,openai/gpt-4o-mini
+1723,artifacts/autointerp/collages/latent_1723.png,18.788137435913086,"The common visual pattern across these images is a diverse array of colorful and appetizing food dishes, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+1726,artifacts/autointerp/collages/latent_1726.png,14.328816413879395,"The common visual pattern across these images is a diverse array of food dishes and culinary presentations, showcasing various cuisines and cooking styles.",ok,openai/gpt-4o-mini
+1785,artifacts/autointerp/collages/latent_1785.png,14.707670211791992,"The common visual pattern across these images is a diverse array of beautifully presented dishes and desserts, showcasing a variety of colors, textures, and culinary styles.",ok,openai/gpt-4o-mini
+1809,artifacts/autointerp/collages/latent_1809.png,12.58654499053955,The common visual pattern across these images is a diverse array of colorful and appetizing food dishes presented in various styles and settings.,ok,openai/gpt-4o-mini
+1884,artifacts/autointerp/collages/latent_1884.png,12.685503959655762,"The images collectively showcase a variety of food dishes and desserts, highlighting diverse culinary presentations and styles.",ok,openai/gpt-4o-mini
+1886,artifacts/autointerp/collages/latent_1886.png,16.75528335571289,"The common visual pattern across these images is a diverse array of food items presented in various styles and textures, showcasing both savory and sweet dishes.",ok,openai/gpt-4o-mini
+1902,artifacts/autointerp/collages/latent_1902.png,13.601887702941895,"The images display a diverse array of food items, showcasing various cuisines and presentation styles, including desserts, main courses, and appetizers.",ok,openai/gpt-4o-mini
+1918,artifacts/autointerp/collages/latent_1918.png,14.71094799041748,"The images showcase a diverse array of food dishes, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+1935,artifacts/autointerp/collages/latent_1935.png,15.863454818725586,"The common visual pattern across these images is a diverse array of food items, showcasing various cuisines and desserts.",ok,openai/gpt-4o-mini
+1953,artifacts/autointerp/collages/latent_1953.png,14.038597106933594,"The images showcase a variety of elegantly presented dishes, emphasizing gourmet cuisine with artistic plating and diverse ingredients.",ok,openai/gpt-4o-mini
+1955,artifacts/autointerp/collages/latent_1955.png,14.29545783996582,The common visual pattern across these images is a diverse array of food dishes and desserts presented in various styles and settings.,ok,openai/gpt-4o-mini
+1975,artifacts/autointerp/collages/latent_1975.png,12.386953353881836,"The common visual pattern across these images is a diverse array of plated food items, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+1993,artifacts/autointerp/collages/latent_1993.png,13.39756965637207,"The common visual pattern across these images is a diverse array of plated meals, showcasing various cuisines and food presentations.",ok,openai/gpt-4o-mini
+2015,artifacts/autointerp/collages/latent_2015.png,13.97441291809082,"The common visual pattern across these images is a diverse array of food items, showcasing various cuisines and dining experiences.",ok,openai/gpt-4o-mini
+2036,artifacts/autointerp/collages/latent_2036.png,12.338075637817383,"The images predominantly showcase a variety of colorful and appetizing food items, often presented in social settings or gatherings.",ok,openai/gpt-4o-mini
+2057,artifacts/autointerp/collages/latent_2057.png,14.603469848632812,"The images showcase a diverse array of colorful and appetizing dishes, highlighting various cuisines and food presentations.",ok,openai/gpt-4o-mini
+2120,artifacts/autointerp/collages/latent_2120.png,14.629642486572266,"The common visual pattern across these images is a diverse array of colorful and intricately presented dishes, showcasing various cuisines and food types.",ok,openai/gpt-4o-mini
+2123,artifacts/autointerp/collages/latent_2123.png,17.58932113647461,"The images showcase a diverse array of food dishes, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+2126,artifacts/autointerp/collages/latent_2126.png,12.496826171875,"The common visual pattern across these images is a diverse array of food items, showcasing various cuisines and desserts presented in appealing arrangements.",ok,openai/gpt-4o-mini
+2131,artifacts/autointerp/collages/latent_2131.png,14.27419662475586,"The common visual pattern across these images is a diverse array of food items, showcasing various cuisines and desserts presented in appealing arrangements.",ok,openai/gpt-4o-mini
+2149,artifacts/autointerp/collages/latent_2149.png,14.325103759765625,"The images showcase a diverse array of colorful and visually appealing dishes, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+2151,artifacts/autointerp/collages/latent_2151.png,12.495243072509766,"The common visual pattern across these images is a diverse array of food dishes, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+2157,artifacts/autointerp/collages/latent_2157.png,14.075740814208984,"The common visual pattern across these images is a diverse array of colorful and appetizing food items, including desserts, main dishes, and snacks.",ok,openai/gpt-4o-mini
+2201,artifacts/autointerp/collages/latent_2201.png,14.184731483459473,"The images showcase a diverse array of food dishes and beverages, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+2222,artifacts/autointerp/collages/latent_2222.png,13.048954010009766,"The common visual pattern across these images is a diverse array of prepared dishes and desserts, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+2228,artifacts/autointerp/collages/latent_2228.png,13.912442207336426,"The images showcase a variety of food dishes, highlighting diverse cuisines and presentation styles, often featuring vibrant colors and textures.",ok,openai/gpt-4o-mini
+2296,artifacts/autointerp/collages/latent_2296.png,15.599576950073242,"The common visual pattern across these images is the presence of various green foods, particularly edamame and other green vegetables or dishes.",ok,openai/gpt-4o-mini
+2341,artifacts/autointerp/collages/latent_2341.png,15.548637390136719,"The common visual pattern across these images is a diverse array of food items and culinary presentations, showcasing various dishes and desserts from different cuisines.",ok,openai/gpt-4o-mini
+2411,artifacts/autointerp/collages/latent_2411.png,12.689308166503906,"The images showcase a diverse array of food dishes, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+2488,artifacts/autointerp/collages/latent_2488.png,12.739763259887695,"The common visual pattern across these images is a diverse array of food dishes presented on various plates and containers, showcasing different cuisines and meal types.",ok,openai/gpt-4o-mini
+2497,artifacts/autointerp/collages/latent_2497.png,12.558923721313477,"The images showcase a diverse array of food items, including desserts, main dishes, and beverages, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+2513,artifacts/autointerp/collages/latent_2513.png,14.863405227661133,"The images showcase a diverse array of beautifully presented dishes, highlighting various cuisines and culinary styles.",ok,openai/gpt-4o-mini
+2524,artifacts/autointerp/collages/latent_2524.png,27.262649536132812,"The common visual pattern across these images is the presence of vibrant green edamame beans, often displayed in various arrangements and settings.",ok,openai/gpt-4o-mini
+2532,artifacts/autointerp/collages/latent_2532.png,12.24270248413086,"The images showcase a variety of delicious dishes and desserts, highlighting diverse culinary presentations and textures.",ok,openai/gpt-4o-mini
+2545,artifacts/autointerp/collages/latent_2545.png,13.850676536560059,"The images showcase a diverse array of colorful and visually appealing dishes, highlighting various cuisines and food presentations.",ok,openai/gpt-4o-mini
+2552,artifacts/autointerp/collages/latent_2552.png,12.582935333251953,"The images showcase a diverse array of dishes from various cuisines, highlighting colorful presentations and a variety of ingredients.",ok,openai/gpt-4o-mini
+2591,artifacts/autointerp/collages/latent_2591.png,14.259601593017578,The common visual pattern across these images is a diverse array of food items presented in various styles and cuisines.,ok,openai/gpt-4o-mini
+2603,artifacts/autointerp/collages/latent_2603.png,13.421424865722656,"The images showcase a diverse array of dishes and desserts, highlighting various culinary styles and presentations from different cultures.",ok,openai/gpt-4o-mini
+2607,artifacts/autointerp/collages/latent_2607.png,12.280059814453125,"The common visual pattern across these images is a diverse array of food dishes, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+2638,artifacts/autointerp/collages/latent_2638.png,14.167240142822266,"The common visual pattern across these images features various types of food, primarily soups and desserts, often presented in bowls or plates.",ok,openai/gpt-4o-mini
+2658,artifacts/autointerp/collages/latent_2658.png,12.638235092163086,"The common visual pattern across these images is a diverse array of food items, showcasing various cuisines and desserts.",ok,openai/gpt-4o-mini
+2709,artifacts/autointerp/collages/latent_2709.png,12.649024963378906,"The common visual pattern across these images is a diverse array of food items, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+2743,artifacts/autointerp/collages/latent_2743.png,14.780511856079102,"The common visual pattern across these images is a vibrant array of various dishes, showcasing a mix of colors and textures, primarily focusing on rich, appetizing foods.",ok,openai/gpt-4o-mini
+2744,artifacts/autointerp/collages/latent_2744.png,22.082195281982422,"The images display a diverse array of food items, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+2745,artifacts/autointerp/collages/latent_2745.png,12.842445373535156,"The common visual pattern across these images is a diverse array of colorful and appetizing food dishes, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+2747,artifacts/autointerp/collages/latent_2747.png,13.049201965332031,"The common visual pattern across these images is a diverse array of beautifully presented food dishes, showcasing various cuisines and ingredients.",ok,openai/gpt-4o-mini
+2799,artifacts/autointerp/collages/latent_2799.png,15.186664581298828,"The common visual pattern across these images is a diverse array of food items, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+2837,artifacts/autointerp/collages/latent_2837.png,12.606729507446289,"The images collectively showcase a variety of food items, highlighting diverse cuisines and presentation styles.",ok,openai/gpt-4o-mini
+2908,artifacts/autointerp/collages/latent_2908.png,13.309502601623535,"The common visual pattern across these images is a diverse array of food dishes, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+2931,artifacts/autointerp/collages/latent_2931.png,17.830699920654297,"The common visual pattern across these images is a variety of plated dishes showcasing diverse cuisines, including salads, appetizers, main courses, and desserts.",ok,openai/gpt-4o-mini
+2943,artifacts/autointerp/collages/latent_2943.png,13.167509078979492,"The common visual pattern across these images is a diverse array of beautifully presented dishes, showcasing various cuisines and styles of food.",ok,openai/gpt-4o-mini
+3146,artifacts/autointerp/collages/latent_3146.png,13.357757568359375,"The common visual pattern across these images is a diverse array of food dishes, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+3159,artifacts/autointerp/collages/latent_3159.png,13.831430435180664,"The images showcase a diverse array of colorful and visually appealing dishes, highlighting various cuisines and types of food presentation.",ok,openai/gpt-4o-mini
+3225,artifacts/autointerp/collages/latent_3225.png,13.950024604797363,"The images showcase a diverse array of delicious foods, including desserts, savory dishes, and various cuisines, highlighting vibrant colors and appealing presentations.",ok,openai/gpt-4o-mini
+3271,artifacts/autointerp/collages/latent_3271.png,12.392034530639648,"The images showcase a diverse array of food dishes, highlighting various cuisines and meal types, including appetizers, main courses, and desserts.",ok,openai/gpt-4o-mini
+3292,artifacts/autointerp/collages/latent_3292.png,13.145034790039062,"The common visual pattern across these images is a diverse array of colorful and appetizing food dishes, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+3297,artifacts/autointerp/collages/latent_3297.png,13.67913818359375,"The images showcase a diverse array of food dishes, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+3344,artifacts/autointerp/collages/latent_3344.png,12.351787567138672,"The common visual pattern across these images is a diverse array of food dishes, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+3398,artifacts/autointerp/collages/latent_3398.png,17.725826263427734,"The common visual pattern across these images is a diverse array of food dishes, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+3402,artifacts/autointerp/collages/latent_3402.png,19.460224151611328,"The images showcase a variety of dishes, primarily featuring different types of food presentations, textures, and colors, highlighting a culinary theme.",ok,openai/gpt-4o-mini
+3406,artifacts/autointerp/collages/latent_3406.png,15.209779739379883,"The common visual pattern across these images is a diverse array of food presentations, showcasing various dishes and ingredients.",ok,openai/gpt-4o-mini
+3409,artifacts/autointerp/collages/latent_3409.png,15.171150207519531,"The common visual pattern across these images is a diverse array of food items, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+3425,artifacts/autointerp/collages/latent_3425.png,13.072853088378906,"The common visual pattern across these images is a diverse array of food items, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+3435,artifacts/autointerp/collages/latent_3435.png,13.603982925415039,"The images showcase a diverse array of dishes, highlighting various cuisines and presentation styles, with a focus on colorful ingredients and intricate plating.",ok,openai/gpt-4o-mini
+3471,artifacts/autointerp/collages/latent_3471.png,16.785436630249023,"The images showcase a diverse array of dishes and desserts, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+3473,artifacts/autointerp/collages/latent_3473.png,13.664037704467773,"The images showcase a diverse array of food items, including desserts, appetizers, main courses, and vegetables, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+3476,artifacts/autointerp/collages/latent_3476.png,13.107244491577148,"The common visual pattern across these images is a diverse array of beautifully presented food dishes, showcasing various cuisines and desserts.",ok,openai/gpt-4o-mini
+3510,artifacts/autointerp/collages/latent_3510.png,13.494319915771484,"The images showcase a diverse array of dishes and desserts, highlighting various cuisines and food presentations.",ok,openai/gpt-4o-mini
+3621,artifacts/autointerp/collages/latent_3621.png,14.283227920532227,"The images showcase a diverse array of food dishes, highlighting various cuisines and presentation styles, with an emphasis on vibrant colors and textures.",ok,openai/gpt-4o-mini
+3643,artifacts/autointerp/collages/latent_3643.png,15.850818634033203,"The images showcase a diverse array of food dishes, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+3655,artifacts/autointerp/collages/latent_3655.png,14.696073532104492,"The common visual pattern across these images is a diverse array of food dishes and dining experiences, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+3670,artifacts/autointerp/collages/latent_3670.png,13.038629531860352,"The images showcase a variety of beautifully presented dishes and desserts, highlighting diverse culinary styles and vibrant colors.",ok,openai/gpt-4o-mini
+3692,artifacts/autointerp/collages/latent_3692.png,13.432745933532715,The common visual pattern across these images is a diverse array of food items presented in various styles and settings.,ok,openai/gpt-4o-mini
+3712,artifacts/autointerp/collages/latent_3712.png,17.400211334228516,"The common visual pattern across these images is a diverse array of plated dishes and desserts, showcasing various textures, colors, and culinary presentations.",ok,openai/gpt-4o-mini
+3717,artifacts/autointerp/collages/latent_3717.png,12.621849060058594,"The common visual pattern across these images is a diverse array of plated dishes showcasing various cuisines, ingredients, and presentation styles.",ok,openai/gpt-4o-mini
+3741,artifacts/autointerp/collages/latent_3741.png,12.295360565185547,"The common visual pattern across these images is a diverse array of food dishes, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+3784,artifacts/autointerp/collages/latent_3784.png,13.527229309082031,"The images showcase a diverse array of dishes, highlighting various cuisines and food presentations, with an emphasis on vibrant colors and textures.",ok,openai/gpt-4o-mini
+3832,artifacts/autointerp/collages/latent_3832.png,14.296714782714844,The common visual pattern across these images is a diverse array of beautifully presented dishes and food items from various cuisines.,ok,openai/gpt-4o-mini
+3876,artifacts/autointerp/collages/latent_3876.png,14.291963577270508,"The images showcase a diverse array of colorful and visually appealing dishes, highlighting various cuisines and food presentations.",ok,openai/gpt-4o-mini
+3910,artifacts/autointerp/collages/latent_3910.png,12.519425392150879,"The common visual pattern across these images is a vibrant display of various food items, showcasing a mix of savory and sweet dishes with colorful presentations.",ok,openai/gpt-4o-mini
+3911,artifacts/autointerp/collages/latent_3911.png,16.729904174804688,"The images showcase a variety of colorful and diverse food dishes, highlighting different textures and presentations, often featuring desserts and savory items.",ok,openai/gpt-4o-mini
+3928,artifacts/autointerp/collages/latent_3928.png,12.895941734313965,"The images collectively showcase a diverse array of food dishes, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+3929,artifacts/autointerp/collages/latent_3929.png,27.161479949951172,"The common visual pattern across these images is a focus on various types of food, particularly highlighting fried items like French fries and diverse dishes presented in colorful arrangements.",ok,openai/gpt-4o-mini
+3951,artifacts/autointerp/collages/latent_3951.png,14.55720329284668,"The common visual pattern across these images is a diverse array of plated dishes featuring various cuisines, ingredients, and presentation styles, highlighting both savory and sweet foods.",ok,openai/gpt-4o-mini
+3976,artifacts/autointerp/collages/latent_3976.png,17.531801223754883,"The common visual pattern across these images is a diverse array of colorful and appetizing food dishes, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+4002,artifacts/autointerp/collages/latent_4002.png,13.905803680419922,"The images showcase a diverse array of dishes, highlighting various cuisines and food presentations, including both savory and sweet items.",ok,openai/gpt-4o-mini
+4007,artifacts/autointerp/collages/latent_4007.png,14.371100425720215,"The common visual pattern across these images is a diverse array of food items and dining experiences, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+4062,artifacts/autointerp/collages/latent_4062.png,13.483592987060547,"The common visual pattern across these images is a diverse array of colorful and appetizing food presentations, showcasing various dishes and desserts.",ok,openai/gpt-4o-mini
+4093,artifacts/autointerp/collages/latent_4093.png,18.90733528137207,"The common visual pattern across these images is a variety of food items, showcasing different textures, colors, and presentation styles.",ok,openai/gpt-4o-mini
+4130,artifacts/autointerp/collages/latent_4130.png,13.432430267333984,"The images showcase a variety of delicious dishes and desserts, highlighting diverse cuisines and presentation styles.",ok,openai/gpt-4o-mini
+4173,artifacts/autointerp/collages/latent_4173.png,12.980799674987793,"The images showcase a diverse array of food dishes, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+4199,artifacts/autointerp/collages/latent_4199.png,12.259214401245117,"The images showcase a diverse array of food dishes and desserts, highlighting various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+4221,artifacts/autointerp/collages/latent_4221.png,12.52145767211914,"The common visual pattern across these images is a diverse array of food dishes, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+4230,artifacts/autointerp/collages/latent_4230.png,16.571319580078125,"The common visual pattern across these images is a diverse array of food items and desserts, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+4235,artifacts/autointerp/collages/latent_4235.png,13.619407653808594,"The common visual pattern across these images is a diverse array of food dishes, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+4237,artifacts/autointerp/collages/latent_4237.png,13.499738693237305,"The common visual pattern across these images is a diverse array of desserts and savory dishes, showcasing a variety of textures, colors, and presentations.",ok,openai/gpt-4o-mini
+4273,artifacts/autointerp/collages/latent_4273.png,13.078311920166016,The common visual pattern across these images is a diverse array of beautifully presented food dishes and desserts.,ok,openai/gpt-4o-mini
+4292,artifacts/autointerp/collages/latent_4292.png,19.95262908935547,"The common visual pattern across these images is a diverse array of colorful and appetizing food items, showcasing desserts, main dishes, and snacks.",ok,openai/gpt-4o-mini
+4331,artifacts/autointerp/collages/latent_4331.png,16.413818359375,"The common visual pattern across these images is a diverse array of food items and dining experiences, showcasing various cuisines and culinary presentations.",ok,openai/gpt-4o-mini
+4346,artifacts/autointerp/collages/latent_4346.png,17.30240249633789,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4353,artifacts/autointerp/collages/latent_4353.png,12.605992317199707,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4404,artifacts/autointerp/collages/latent_4404.png,14.641115188598633,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4420,artifacts/autointerp/collages/latent_4420.png,24.873409271240234,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4448,artifacts/autointerp/collages/latent_4448.png,12.911884307861328,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4499,artifacts/autointerp/collages/latent_4499.png,13.343917846679688,"The common visual pattern across these images is a diverse array of food dishes, showcasing various cuisines and presentation styles.",ok,openai/gpt-4o-mini
+4555,artifacts/autointerp/collages/latent_4555.png,12.60604476928711,"The images showcase a variety of food dishes and dining experiences, highlighting diverse cuisines and presentation styles.",ok,openai/gpt-4o-mini
+4572,artifacts/autointerp/collages/latent_4572.png,15.97092056274414,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4580,artifacts/autointerp/collages/latent_4580.png,17.82185935974121,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4629,artifacts/autointerp/collages/latent_4629.png,13.51713752746582,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4636,artifacts/autointerp/collages/latent_4636.png,18.152193069458008,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4659,artifacts/autointerp/collages/latent_4659.png,16.73395347595215,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4668,artifacts/autointerp/collages/latent_4668.png,16.29559898376465,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4788,artifacts/autointerp/collages/latent_4788.png,13.993997573852539,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4816,artifacts/autointerp/collages/latent_4816.png,12.712032318115234,"The images showcase a variety of delicious dishes and desserts, highlighting an array of textures, colors, and culinary styles.",ok,openai/gpt-4o-mini
+4839,artifacts/autointerp/collages/latent_4839.png,14.210068702697754,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4861,artifacts/autointerp/collages/latent_4861.png,45.543392181396484,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4868,artifacts/autointerp/collages/latent_4868.png,12.352389335632324,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4870,artifacts/autointerp/collages/latent_4870.png,12.555017471313477,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4907,artifacts/autointerp/collages/latent_4907.png,13.206789016723633,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4931,artifacts/autointerp/collages/latent_4931.png,12.510787010192871,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4965,artifacts/autointerp/collages/latent_4965.png,12.67769718170166,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+4992,artifacts/autointerp/collages/latent_4992.png,13.256197929382324,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5005,artifacts/autointerp/collages/latent_5005.png,12.577860832214355,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5047,artifacts/autointerp/collages/latent_5047.png,13.293914794921875,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5118,artifacts/autointerp/collages/latent_5118.png,12.827262878417969,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5139,artifacts/autointerp/collages/latent_5139.png,15.292438507080078,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5147,artifacts/autointerp/collages/latent_5147.png,14.122936248779297,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5154,artifacts/autointerp/collages/latent_5154.png,12.260387420654297,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5186,artifacts/autointerp/collages/latent_5186.png,13.537691116333008,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5214,artifacts/autointerp/collages/latent_5214.png,16.636240005493164,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5216,artifacts/autointerp/collages/latent_5216.png,22.95433235168457,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5229,artifacts/autointerp/collages/latent_5229.png,12.488691329956055,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5238,artifacts/autointerp/collages/latent_5238.png,12.959369659423828,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5297,artifacts/autointerp/collages/latent_5297.png,13.082054138183594,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5314,artifacts/autointerp/collages/latent_5314.png,17.03112030029297,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5352,artifacts/autointerp/collages/latent_5352.png,14.677701950073242,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5373,artifacts/autointerp/collages/latent_5373.png,14.092803955078125,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5385,artifacts/autointerp/collages/latent_5385.png,16.107402801513672,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5396,artifacts/autointerp/collages/latent_5396.png,12.9807710647583,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5497,artifacts/autointerp/collages/latent_5497.png,15.02601146697998,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5539,artifacts/autointerp/collages/latent_5539.png,15.684009552001953,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5548,artifacts/autointerp/collages/latent_5548.png,14.16019058227539,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5565,artifacts/autointerp/collages/latent_5565.png,18.616657257080078,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5571,artifacts/autointerp/collages/latent_5571.png,13.96078872680664,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5577,artifacts/autointerp/collages/latent_5577.png,21.292631149291992,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5581,artifacts/autointerp/collages/latent_5581.png,13.341303825378418,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5590,artifacts/autointerp/collages/latent_5590.png,12.720891952514648,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5609,artifacts/autointerp/collages/latent_5609.png,13.27493667602539,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5650,artifacts/autointerp/collages/latent_5650.png,12.280965805053711,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5684,artifacts/autointerp/collages/latent_5684.png,14.300605773925781,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5694,artifacts/autointerp/collages/latent_5694.png,14.663263320922852,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5703,artifacts/autointerp/collages/latent_5703.png,12.761512756347656,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5792,artifacts/autointerp/collages/latent_5792.png,15.643781661987305,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5802,artifacts/autointerp/collages/latent_5802.png,13.936147689819336,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5827,artifacts/autointerp/collages/latent_5827.png,13.419075012207031,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5834,artifacts/autointerp/collages/latent_5834.png,12.509908676147461,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5843,artifacts/autointerp/collages/latent_5843.png,16.311059951782227,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5886,artifacts/autointerp/collages/latent_5886.png,12.494165420532227,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5923,artifacts/autointerp/collages/latent_5923.png,13.716355323791504,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5926,artifacts/autointerp/collages/latent_5926.png,20.7091007232666,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5943,artifacts/autointerp/collages/latent_5943.png,12.913875579833984,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5955,artifacts/autointerp/collages/latent_5955.png,12.873363494873047,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5957,artifacts/autointerp/collages/latent_5957.png,13.28635311126709,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5960,artifacts/autointerp/collages/latent_5960.png,14.86854076385498,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+5971,artifacts/autointerp/collages/latent_5971.png,23.064674377441406,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6012,artifacts/autointerp/collages/latent_6012.png,14.004127502441406,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6026,artifacts/autointerp/collages/latent_6026.png,17.026872634887695,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6058,artifacts/autointerp/collages/latent_6058.png,14.427865982055664,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6063,artifacts/autointerp/collages/latent_6063.png,14.871631622314453,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6096,artifacts/autointerp/collages/latent_6096.png,15.103699684143066,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6139,artifacts/autointerp/collages/latent_6139.png,12.825761795043945,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6142,artifacts/autointerp/collages/latent_6142.png,13.444915771484375,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6143,artifacts/autointerp/collages/latent_6143.png,13.21959400177002,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6144,artifacts/autointerp/collages/latent_6144.png,12.419897079467773,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6166,artifacts/autointerp/collages/latent_6166.png,12.539284706115723,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6206,artifacts/autointerp/collages/latent_6206.png,13.192325592041016,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6226,artifacts/autointerp/collages/latent_6226.png,24.284788131713867,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6248,artifacts/autointerp/collages/latent_6248.png,12.735566139221191,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6272,artifacts/autointerp/collages/latent_6272.png,25.27375030517578,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6285,artifacts/autointerp/collages/latent_6285.png,27.249568939208984,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6300,artifacts/autointerp/collages/latent_6300.png,18.542396545410156,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6314,artifacts/autointerp/collages/latent_6314.png,12.278440475463867,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6404,artifacts/autointerp/collages/latent_6404.png,12.767095565795898,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6498,artifacts/autointerp/collages/latent_6498.png,14.702641487121582,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6542,artifacts/autointerp/collages/latent_6542.png,13.02981185913086,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6551,artifacts/autointerp/collages/latent_6551.png,18.310787200927734,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6656,artifacts/autointerp/collages/latent_6656.png,14.86627197265625,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6700,artifacts/autointerp/collages/latent_6700.png,12.826155662536621,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6725,artifacts/autointerp/collages/latent_6725.png,14.426786422729492,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6737,artifacts/autointerp/collages/latent_6737.png,13.984285354614258,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6747,artifacts/autointerp/collages/latent_6747.png,12.194183349609375,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6749,artifacts/autointerp/collages/latent_6749.png,14.910606384277344,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6759,artifacts/autointerp/collages/latent_6759.png,12.713613510131836,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6760,artifacts/autointerp/collages/latent_6760.png,14.205179214477539,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6781,artifacts/autointerp/collages/latent_6781.png,15.123016357421875,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6787,artifacts/autointerp/collages/latent_6787.png,12.331012725830078,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6811,artifacts/autointerp/collages/latent_6811.png,16.423534393310547,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6848,artifacts/autointerp/collages/latent_6848.png,31.30654525756836,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6855,artifacts/autointerp/collages/latent_6855.png,13.97679615020752,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6858,artifacts/autointerp/collages/latent_6858.png,13.321249008178711,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+6880,artifacts/autointerp/collages/latent_6880.png,15.644832611083984,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7008,artifacts/autointerp/collages/latent_7008.png,13.184225082397461,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7016,artifacts/autointerp/collages/latent_7016.png,12.511228561401367,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7024,artifacts/autointerp/collages/latent_7024.png,14.078990936279297,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7041,artifacts/autointerp/collages/latent_7041.png,12.83098316192627,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7071,artifacts/autointerp/collages/latent_7071.png,12.92827033996582,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7102,artifacts/autointerp/collages/latent_7102.png,12.951552391052246,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7122,artifacts/autointerp/collages/latent_7122.png,16.003520965576172,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7134,artifacts/autointerp/collages/latent_7134.png,13.050529479980469,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7184,artifacts/autointerp/collages/latent_7184.png,13.578062057495117,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7201,artifacts/autointerp/collages/latent_7201.png,15.866422653198242,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7226,artifacts/autointerp/collages/latent_7226.png,12.503079414367676,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7280,artifacts/autointerp/collages/latent_7280.png,17.35463523864746,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7356,artifacts/autointerp/collages/latent_7356.png,18.626358032226562,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7404,artifacts/autointerp/collages/latent_7404.png,15.015405654907227,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7443,artifacts/autointerp/collages/latent_7443.png,14.20540714263916,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7463,artifacts/autointerp/collages/latent_7463.png,12.586326599121094,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7474,artifacts/autointerp/collages/latent_7474.png,14.657888412475586,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7517,artifacts/autointerp/collages/latent_7517.png,12.525795936584473,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7545,artifacts/autointerp/collages/latent_7545.png,15.381178855895996,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7567,artifacts/autointerp/collages/latent_7567.png,16.14868927001953,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7584,artifacts/autointerp/collages/latent_7584.png,14.28030014038086,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7602,artifacts/autointerp/collages/latent_7602.png,12.581145286560059,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7611,artifacts/autointerp/collages/latent_7611.png,12.300418853759766,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7620,artifacts/autointerp/collages/latent_7620.png,12.76674747467041,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7636,artifacts/autointerp/collages/latent_7636.png,13.13776969909668,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7638,artifacts/autointerp/collages/latent_7638.png,12.497607231140137,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7662,artifacts/autointerp/collages/latent_7662.png,13.463951110839844,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7722,artifacts/autointerp/collages/latent_7722.png,13.889293670654297,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7724,artifacts/autointerp/collages/latent_7724.png,12.357277870178223,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7745,artifacts/autointerp/collages/latent_7745.png,12.608757019042969,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7823,artifacts/autointerp/collages/latent_7823.png,15.420022964477539,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7879,artifacts/autointerp/collages/latent_7879.png,12.244488716125488,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7905,artifacts/autointerp/collages/latent_7905.png,18.63588523864746,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7935,artifacts/autointerp/collages/latent_7935.png,12.922216415405273,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+7978,artifacts/autointerp/collages/latent_7978.png,12.903929710388184,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+8116,artifacts/autointerp/collages/latent_8116.png,12.740470886230469,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+8140,artifacts/autointerp/collages/latent_8140.png,16.24393081665039,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+8141,artifacts/autointerp/collages/latent_8141.png,12.313209533691406,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+8147,artifacts/autointerp/collages/latent_8147.png,12.995068550109863,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+8173,artifacts/autointerp/collages/latent_8173.png,14.141716003417969,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
+8182,artifacts/autointerp/collages/latent_8182.png,12.525412559509277,ERROR: HTTP Error 402: Payment Required,error,openai/gpt-4o-mini
