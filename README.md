@@ -100,7 +100,7 @@ PYTHONPATH=src python scripts/train_sae.py \
 make check-pipeline
 ```
 
-## Zero-shot Eval (CIFAR-10/100)
+## Zero-shot Eval (CIFAR-10/100/STL-10)
 
 Baseline CLIP:
 
@@ -113,6 +113,18 @@ PYTHONPATH=src python scripts/eval_zeroshot.py \
   --batch_size 64 \
   --num_workers 0
 ```
+
+```bash
+PYTHONPATH=src python scripts/eval_zeroshot.py \
+  --dataset stl10 \
+  --split test \
+  --model ViT-B-32 \
+  --pretrained openai \
+  --batch_size 64 \
+  --num_workers 0
+```
+
+If you are offline and STL‑10 is already downloaded, add `--no_download`.
 
 With SAE intervention (requires checkpoint + layer):
 
@@ -134,7 +146,7 @@ PYTHONPATH=src python scripts/eval_zeroshot.py \
 PYTHONPATH=src python scripts/make_p4_table.py \
   --eval_runs artifacts/eval/<run1> artifacts/eval/<run2> \
   --checkpoint_dir artifacts/checkpoints/<sae_run> \
-  --out_path artifacts/eval/p4_table.md
+  --out_path artifacts/eval/zeroshot_eval_table.md
 ```
 
 ## Auto-Interpretation (P5)
@@ -166,7 +178,7 @@ Build the P5 markdown table:
 ```bash
 PYTHONPATH=src python scripts/make_p5_table.py \
   --autointerp_csv artifacts/autointerp/autointerp.csv \
-  --out_path artifacts/autointerp/p5_table.md
+  --out_path artifacts/autointerp/autointerp_table.md
 ```
 
 ## Repo Layout

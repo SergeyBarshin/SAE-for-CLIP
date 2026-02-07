@@ -14,12 +14,16 @@ from clip_sae.sae import load_sae_from_checkpoint
 
 def parse_args():
     p = argparse.ArgumentParser()
-    p.add_argument("--dataset", choices=["cifar10", "cifar100"], required=True)
+    p.add_argument(
+        "--dataset", choices=["cifar10", "cifar100", "stl10"], required=True
+    )
     p.add_argument("--split", choices=["train", "test"], default="test")
     p.add_argument("--model", default="ViT-B-32")
     p.add_argument("--pretrained", default="openai")
     p.add_argument("--batch_size", type=int, default=64)
     p.add_argument("--num_samples", type=int, default=None)
+    p.add_argument("--download", action="store_true")
+    p.add_argument("--no_download", action="store_true")
     p.add_argument("--device", default="cuda" if torch.cuda.is_available() else "cpu")
     p.add_argument("--num_workers", type=int, default=0)
     p.add_argument("--out_dir", default="artifacts/eval")
@@ -29,15 +33,28 @@ def parse_args():
     return p.parse_args()
 
 
-def get_dataset(name: str, split: str, transform):
-    train = split == "train"
+def get_dataset(name: str, split: str, transform, download: bool):
     if name == "cifar10":
         ds = torchvision.datasets.CIFAR10(
-            root="data/torchvision", train=train, download=True, transform=transform
+            root="data/torchvision",
+            train=(split == "train"),
+            download=download,
+            transform=transform,
+        )
+    elif name == "cifar100":
+        ds = torchvision.datasets.CIFAR100(
+            root="data/torchvision",
+            train=(split == "train"),
+            download=download,
+            transform=transform,
         )
     else:
-        ds = torchvision.datasets.CIFAR100(
-            root="data/torchvision", train=train, download=True, transform=transform
+        # STL10 uses split names "train" and "test"
+        ds = torchvision.datasets.STL10(
+            root="data/torchvision",
+            split=split,
+            download=download,
+            transform=transform,
         )
     return ds
 
@@ -93,7 +110,12 @@ def main():
     model.eval().to(args.device)
 
     transform = preprocess
-    ds = get_dataset(args.dataset, args.split, transform)
+    download = True
+    if args.no_download:
+        download = False
+    if args.download:
+        download = True
+    ds = get_dataset(args.dataset, args.split, transform, download)
 
     if args.num_samples is not None:
         indices = list(range(min(args.num_samples, len(ds))))

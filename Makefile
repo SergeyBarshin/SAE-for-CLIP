@@ -27,10 +27,13 @@ sample-images:
 check-pipeline:
 	PYTHONPATH=src python scripts/check_pipeline.py
 
-.PHONY: eval-cifar10 eval-cifar100
+.PHONY: eval-cifar10 eval-cifar100 eval-stl10
 
 eval-cifar10:
 	PYTHONPATH=src python scripts/eval_zeroshot.py --dataset cifar10 --split test --batch_size 64 --num_workers 0
 
 eval-cifar100:
 	PYTHONPATH=src python scripts/eval_zeroshot.py --dataset cifar100 --split test --batch_size 64 --num_workers 0
+
+eval-stl10:
+	PYTHONPATH=src python scripts/eval_zeroshot.py --dataset stl10 --split test --batch_size 64 --num_workers 0

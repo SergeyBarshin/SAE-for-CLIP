@@ -64,6 +64,13 @@ def load_sae_from_checkpoint(checkpoint_path: str, device: str = "cpu"):
     alpha_mode = config.get("alpha_mode", "reverse")
     use_pre_bias = config.get("use_pre_bias", True)
     use_enc_bias = config.get("use_enc_bias", True)
+    # Backward compatibility: older configs stored default flags as False.
+    if "no_pre_bias" in config and "use_pre_bias" in config:
+        if config["no_pre_bias"] is False and config["use_pre_bias"] is False:
+            use_pre_bias = True
+    if "no_enc_bias" in config and "use_enc_bias" in config:
+        if config["no_enc_bias"] is False and config["use_enc_bias"] is False:
+            use_enc_bias = True
     tied = config.get("tied", False)
     input_centering = config.get("input_centering", "dataset")
     input_scaling = config.get("input_scaling", "dataset")

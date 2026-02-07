@@ -8,7 +8,9 @@ def parse_args():
     p.add_argument("--autointerp_csv", required=True)
     p.add_argument("--latent_ids", default=None)
     p.add_argument("--num_rows", type=int, default=9)
-    p.add_argument("--out_path", default="artifacts/autointerp/p5_table.md")
+    p.add_argument(
+        "--out_path", default="artifacts/autointerp/autointerp_table.md"
+    )
     return p.parse_args()
 
 

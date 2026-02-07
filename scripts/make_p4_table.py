@@ -8,7 +8,9 @@ def parse_args():
     p = argparse.ArgumentParser()
     p.add_argument("--eval_runs", nargs="+", required=True)
     p.add_argument("--checkpoint_dir", required=True)
-    p.add_argument("--out_path", default="artifacts/eval/p4_table.md")
+    p.add_argument(
+        "--out_path", default="artifacts/eval/zeroshot_eval_table.md"
+    )
     return p.parse_args()
 
 

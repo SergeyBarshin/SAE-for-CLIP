@@ -290,6 +290,8 @@ def main():
 
     config = vars(args)
     config["input_dim"] = input_dim
+    config["use_pre_bias"] = use_pre_bias
+    config["use_enc_bias"] = use_enc_bias
     if k_list:
         config["k_list"] = k_list
     if input_mean is not None:

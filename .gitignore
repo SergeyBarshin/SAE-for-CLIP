@@ -7,3 +7,5 @@ artifacts/
 data/torchvision/
 .DS_Store
 .env
+data
+venv

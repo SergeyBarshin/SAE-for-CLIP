@@ -37,23 +37,25 @@ CLIP — это мультимодальная модель, которая уч
 
 Примечание: локальный прогон маленький, EVR отрицательный. Для адекватных метрик требуется больше данных и вычислений (планируется в Colab).
 
-## 4. Zero‑shot eval (п.4)
+## 4. Zero‑shot eval (CIFAR‑10 + STL‑10)
 
-Таблица из `artifacts/eval/p4_table.md`:
+Таблица из `artifacts/eval/zeroshot_eval_table.md`:
 
 | dataset | baseline_acc | sae_acc | acc_delta | dict_size | l0 | evr_global | mse | l1 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| cifar10 | 0.8511 | 0.8359 | -0.0152 | 2048 | 554.09 | -34.7332 | 0.006117 | 0.091471 |
-| cifar100 | 0.6250 | 0.6036 | -0.0214 | 2048 | 554.09 | -34.7332 | 0.006117 | 0.091471 |
+| cifar10 | 0.8545 | 0.8535 | -0.0010 | 512 | 32.00 | 0.3222 | 0.857268 | 0.097542 |
+| stl10 | 0.9530 | 0.9530 | 0.0000 | 512 | 32.00 | 0.3222 | 0.857268 | 0.097542 |
 
-## 5. Авто‑интерпретация (п.5)
+## 5. Авто‑интерпретация (п.5) (п.5)
 
 **Коллажи и CSV**
 - Коллажи: `artifacts/autointerp/collages/latent_*.png`
 - Манифест: `artifacts/autointerp/collages_manifest.csv`
 - CSV: `artifacts/autointerp/autointerp.csv`
 
-**Таблица p5**
+**Таблица auto‑interpretation**
+
+Таблица из `artifacts/autointerp/autointerp_table.md`.
 
 | latent_id | collage | interpretation | status |
 |---:|:---:|---|---|
@@ -73,11 +75,11 @@ CLIP — это мультимодальная модель, которая уч
 - Архитектура Matryoshka Top‑K SAE (MSAE) с несколькими уровнями разреженности.
 - Нормировка входа (dataset mean/std) и EVR в нормированном пространстве.
 
-**Dev‑прогон (локально)**
-- Чекпоинт: `artifacts/checkpoints/dev_msae`
-- `dict_size`: 256
+**Dev‑прогон (локально, Food101 sample)**
+- Чекпоинт: `artifacts/checkpoints/food101_dev_msae`
+- `dict_size`: 512
 - `k_list`: [16, 32]
-- `evr_global`: 0.3091 (положительный)
+- `evr_global`: 0.3222 (положительный)
 
 **Пример команды**
 
@@ -85,14 +87,14 @@ CLIP — это мультимодальная модель, которая уч
 PYTHONPATH=src python scripts/train_sae.py \
   --sae_type msae \
   --k_list 16,32 \
-  --cache_dir artifacts/activation_cache/20260206_213525 \
-  --dict_size 256 \
+  --cache_dir artifacts/activation_cache/food101_dev_acts \
+  --dict_size 512 \
   --epochs 1 \
-  --batch_size 8 \
+  --batch_size 64 \
   --lr 1e-3 \
   --l1_lambda 1e-4 \
   --device cpu \
-  --run_name dev_msae
+  --run_name food101_dev_msae
 ```
 
 ## 7. Что осталось
@@ -101,7 +103,7 @@ PYTHONPATH=src python scripts/train_sae.py \
 - Подготовка сборочного ноутбука `notebooks/assemble_local.ipynb`.
 
 Colab (основной прогон):
-- Обучение SAE/MSAE на COCO (50k–100k изображений).
+- Обучение SAE/MSAE на Food101 (50k–100k изображений).
 - Метрики EVR > 0.8.
 - Auto‑interpretation ≥ 300 латентов + финальная таблица.
 
@@ -141,7 +143,7 @@ PYTHONPATH=src python scripts/eval_zeroshot.py \
   --dataset cifar10 --split test --batch_size 64 --num_workers 0
 
 PYTHONPATH=src python scripts/eval_zeroshot.py \
-  --dataset cifar100 --split test --batch_size 64 --num_workers 0
+  --dataset stl10 --split test --batch_size 64 --num_workers 0
 
 # 5) Auto-interpretation (коллажи + CSV)
 PYTHONPATH=src python scripts/build_collages.py \
@@ -157,5 +159,5 @@ PYTHONPATH=src python scripts/autointerp.py \
 
 PYTHONPATH=src python scripts/make_p5_table.py \
   --autointerp_csv artifacts/autointerp/autointerp.csv \
-  --out_path artifacts/autointerp/p5_table.md
+  --out_path artifacts/autointerp/autointerp_table.md
 ```
